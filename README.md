@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Amit Mishra  
 
-![Profile Banner](https://your-banner-image-link.com)
-
 I am a **Software Engineer**, passionate about building impactful solutions using cutting-edge technology. I thrive in solving complex problems, collaborating on innovative projects, and contributing to the open-source community. Let's create something amazing together!  
 
 ---
